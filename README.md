@@ -1,2 +1,0 @@
-# VolumeRendering
-VolumeRendering
